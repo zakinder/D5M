@@ -27,3 +27,17 @@ v_log
 *.Xil
 hsi_info.txt
 sdk_info.txt
+
+ZEDBOARD/v_log
+ZEDBOARD/workspace/sdk/.metadata
+ZEDBOARD/workspace/sdk/.Xil
+ZEDBOARD/workspace/sdk/D5M/*
+ZEDBOARD/workspace/sdk/webtalk
+ZEDBOARD/workspace/sdk/RemoteSystemsTempFiles
+ZEDBOARD/workspace/sdk/SDK.log
+/src/gpio/*
+/src/http/*
+/src/webserver/*
+src/gpio/*
+src/http/*
+src/webserver/*
