@@ -1,7 +1,0 @@
-//arch = zynq; split = false; format = BIN
-the_ROM_image:
-{
-	[bootloader]C:\Users\sakin\OneDrive\CLOUD\EDIT_NOTES\system\GIT\D5M\zynq_soc\workspace\sdk\fsbl\Debug\fsbl.elf
-	C:\Users\sakin\OneDrive\CLOUD\EDIT_NOTES\system\GIT\D5M\zynq_soc\workspace\sdk\zynq_soc_hw_platform_0\zynq_soc_wrapper.bit
-	C:\Users\sakin\OneDrive\CLOUD\EDIT_NOTES\system\GIT\D5M\zynq_soc\workspace\sdk\D5M\Debug\D5M.elf
-}
