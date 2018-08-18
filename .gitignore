@@ -29,7 +29,9 @@ hsi_info.txt
 sdk_info.txt
 
 ZEDBOARD/v_log
-ZEDBOARD/apps
+ZEDBOARD/apps/UART
+ZEDBOARD/apps/MENU_CALLS
+
 ZEDBOARD/workspace/sdk/.metadata
 ZEDBOARD/workspace/sdk/.Xil
 ZEDBOARD/workspace/sdk/D5M/*
